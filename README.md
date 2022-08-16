@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there+👋+I'm+Wageesha...)](https://git.io/typing-svg)<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150"/>
 
+---
 ### :woman_technologist: About Me :
 
 - :telescope: I’m working as a Trainee Software Engineer and contributing to frontend and backend for building web applications.
@@ -12,7 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShehaniWageesha&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true&theme=dark"/>
+<!--<img src="https://github-readme-stats.vercel.app/api?username=ShehaniWageesha&show_icons=true&theme=dark"/>-->
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
