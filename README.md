@@ -1,7 +1,16 @@
 <div id="header" align="center">
   <!-- <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/> -->
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
   <h1> Hey there 👋 </h1>
+  
+  ---
+
+  ### :woman_technologist: About Me :
+  
+  - :telescope: I’m working as a Trainee Software Engineer and contributing to frontend and backend for building web applications.
+
+  - :seedling: Exploring Technical Content Writing.
+
 </div>
 
 ### :fire: My Stats :
