@@ -2,14 +2,14 @@
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
 
-### :woman_technologist: About Me :
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=About+Me+:)](https://git.io/typing-svg)
+<-- ### :woman_technologist: About Me : -->
 
 - :telescope: I’m working as a Trainee Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
 ---
-
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShehaniWageesha&theme=dark&background=000000)](https://git.io/streak-stats)
 
