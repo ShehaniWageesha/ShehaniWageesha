@@ -1,8 +1,10 @@
 <div align="center">
   <!-- <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/> -->
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
-  <h1> Hey there 👋 </h1>
+  <!-- <h1> Hey there 👋 </h1> -->
 </div>
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there+👋)](https://git.io/typing-svg)
 
