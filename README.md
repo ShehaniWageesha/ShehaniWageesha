@@ -1,15 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there+👋+I'm+Wageesha...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there,+I'm+Wageesha...+👋)](https://git.io/typing-svg)
 <!--<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150"/>
 
 ---
-### :woman_technologist: About Me :
+### About Me :
 
-- :telescope: Currently working as a Trainee Software Engineer and contributing to frontend and backend for building web applications.
+- Currently working as a Trainee Full Stack Developer.
 
-- :seedling: Exploring Technical Content Writing.
+- Contributing to frontend and backend for building web applications.
+
+- Interested in Exploring Technical Content Writing.
 
 ---
-### :fire: My Stats :
+### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShehaniWageesha&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShehaniWageesha&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -17,7 +19,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ShehaniWageesha&show_icons=true&theme=dark"/>
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp;
