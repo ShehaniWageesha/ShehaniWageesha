@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there,+I'm+Wageesha...)](https://git.io/typing-svg)
 <!--<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150"/>-->
 
-### <sup>About Me</sup>
+### <sup>ABOUT ME</sup>
 
 :woman_student: Studying at Sri Lanka Institute of Information Technology
 
@@ -16,7 +16,7 @@
                        ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)-->
 
 ---
-### <sup>Stats</sup>
+### <sup>STATS</sup>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShehaniWageesha&theme=dark&background=000000)](https://git.io/streak-stats)
 
@@ -25,7 +25,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShehaniWageesha&langs_count=6&hide=css,scss&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### <sup>Skills</sup>
+### <sup>SKILLS</sup>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
