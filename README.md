@@ -52,4 +52,4 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" alt="Figma" width="30" height="30"/>&nbsp;
 </div>
 
-![Alt text](https://gist.githubusercontent.com/ShehaniWageesha/c1928e734f08fe5c038214c4b191024e/raw/4516f3ac2fb303fd3a9d9e550962481da2da901a/WaterWave.svg)
+![Alt text](https://gist.githubusercontent.com/ShehaniWageesha/ba386ce923e536448398604391a3d4f9/raw/4359824e64c75f52b5ba1162c31fcbc2f6675b8a/Footer_WaterWave.svg)
