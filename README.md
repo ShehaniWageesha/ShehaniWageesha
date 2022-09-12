@@ -9,7 +9,7 @@
 
 :computer: Contributing to Frontend and Backend for building Web Applications
 
-:email: Reach me via | shehaniwageesha@gmail.com | <br/><br/><br/>
+:email: Reach me via | <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="width:45px;height: 15px;"> shehaniwageesha@gmail.com | <br/><br/><br/>
 
 <!--:email: Reach me via : ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
                        ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
