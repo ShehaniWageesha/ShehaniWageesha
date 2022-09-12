@@ -1,4 +1,4 @@
-<!--![Alt text](https://gist.githubusercontent.com/ShehaniWageesha/fbfd96f40856924243d58257a0d895e6/raw/71b778a6daf5142e6464fe21b64fce0d2a31bb18/Header_WaterWave.svg)-->
+![Alt text](https://gist.githubusercontent.com/ShehaniWageesha/fbfd96f40856924243d58257a0d895e6/raw/71b778a6daf5142e6464fe21b64fce0d2a31bb18/Header_WaterWave.svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there,+I'm+Wageesha...)](https://git.io/typing-svg)
 <!--<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150"/>-->
 
@@ -51,4 +51,5 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="30" height="30"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" alt="Figma" width="30" height="30"/>&nbsp;
 </div>
-<!--![Alt text](https://gist.githubusercontent.com/ShehaniWageesha/c1928e734f08fe5c038214c4b191024e/raw/4516f3ac2fb303fd3a9d9e550962481da2da901a/WaterWave.svg)-->
+
+![Alt text](https://gist.githubusercontent.com/ShehaniWageesha/c1928e734f08fe5c038214c4b191024e/raw/4516f3ac2fb303fd3a9d9e550962481da2da901a/WaterWave.svg)
