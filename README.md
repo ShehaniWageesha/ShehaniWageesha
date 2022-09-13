@@ -52,3 +52,4 @@
 </div>
 
 <!--![Alt text](https://gist.githubusercontent.com/ShehaniWageesha/ba386ce923e536448398604391a3d4f9/raw/4359824e64c75f52b5ba1162c31fcbc2f6675b8a/Footer_WaterWave.svg)-->
+![Alt text](https://gist.githubusercontent.com/ShehaniWageesha/ba386ce923e536448398604391a3d4f9/raw/4359824e64c75f52b5ba1162c31fcbc2f6675b8a/Footer_WaterWave.svg)
