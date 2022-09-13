@@ -1,5 +1,4 @@
 <!--![Alt text](https://gist.githubusercontent.com/ShehaniWageesha/fbfd96f40856924243d58257a0d895e6/raw/71b778a6daf5142e6464fe21b64fce0d2a31bb18/Header_WaterWave.svg)-->
-![Alt text](https://gist.githubusercontent.com/ShehaniWageesha/fbfd96f40856924243d58257a0d895e6/raw/71b778a6daf5142e6464fe21b64fce0d2a31bb18/Header_WaterWave.svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there,+I'm+Wageesha...)](https://git.io/typing-svg)
 
 > ### <sup>ABOUT ME</sup>
@@ -53,4 +52,3 @@
 </div>
 
 <!--![Alt text](https://gist.githubusercontent.com/ShehaniWageesha/ba386ce923e536448398604391a3d4f9/raw/4359824e64c75f52b5ba1162c31fcbc2f6675b8a/Footer_WaterWave.svg)-->
-![Alt text](https://gist.githubusercontent.com/ShehaniWageesha/ba386ce923e536448398604391a3d4f9/raw/4359824e64c75f52b5ba1162c31fcbc2f6675b8a/Footer_WaterWave.svg)
