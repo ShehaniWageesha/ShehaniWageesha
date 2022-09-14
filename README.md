@@ -3,6 +3,12 @@
 <!--![Alt text](https://gist.githubusercontent.com/ShehaniWageesha/fbfd96f40856924243d58257a0d895e6/raw/71b778a6daf5142e6464fe21b64fce0d2a31bb18/Header_WaterWave.svg)-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there,+I'm+Wageesha...)](https://git.io/typing-svg)
 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/shehani.wageesha.7)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/authuser=shehaniwageesha@gmail.com)&nbsp;
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehani-mahalekam-4120961b9/)&nbsp;
+[![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Wagee97)&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/888824562492534785)&nbsp;<br/><br/>
+
 </div>
 
 > ### <sup>ABOUT ME</sup>
@@ -12,14 +18,6 @@
 :briefcase: Working as a Trainee Full Stack Developer
 
 :computer: Contributing to Frontend and Backend for building Web Applications<br/><br/>
-
-> ### <sup>REACH ME VIA</sup>
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/shehani.wageesha.7)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/authuser=shehaniwageesha@gmail.com)&nbsp;
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehani-mahalekam-4120961b9/)&nbsp;
-[![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Wagee97)&nbsp;
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/888824562492534785)&nbsp;<br/><br/>
 
 > ### <sup>LANGUAGES & TOOLS</sup>
 
