@@ -10,7 +10,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/888824562492534785)&nbsp;<br/><br/>
 </div>
 
----
+#
 <br/>
 
 > ### <sup>ABOUT ME</sup>
@@ -20,6 +20,9 @@
 :briefcase: Working as a Trainee Full Stack Developer
 
 :computer: Contributing to Frontend and Backend for building Web Applications<br/><br/>
+
+#
+<br/>
 
 > ### <sup>LANGUAGES & TOOLS</sup>
 
@@ -45,7 +48,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="30" height="30"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="30" height="30"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" alt="Figma" width="30" height="30"/>&nbsp;
-</div><br/><br/>
+</div><br/>
+
+#
+<br/>
 
 > ### <sup>STATS</sup>
 
