@@ -23,7 +23,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ShehaniWageesha&count_private=true&show_icons=true&&theme=vision-friendly-dark"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShehaniWageesha&langs_count=6&hide=css,scss&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) <br/><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShehaniWageesha&langs_count=6&hide=css,scss&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShehaniWageesha&theme=react-dark&hide_border=true&hide_title=false&bg_color=000000&color=FFC000&line=FFC000&point=FFC000&radius=16)](https://github.com/ShehaniWageesha/github-readme-activity-graph)<br/><br/>
 
 > ### <sup>LANGUAGES & TOOLS</sup>
 
