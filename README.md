@@ -1,5 +1,9 @@
+<div align=center>
+
 <!--![Alt text](https://gist.githubusercontent.com/ShehaniWageesha/fbfd96f40856924243d58257a0d895e6/raw/71b778a6daf5142e6464fe21b64fce0d2a31bb18/Header_WaterWave.svg)-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there,+I'm+Wageesha...)](https://git.io/typing-svg)
+
+</div>
 
 > ### <sup>ABOUT ME</sup>
 
@@ -7,8 +11,8 @@
 
 :briefcase: Working as a Trainee Full Stack Developer
 
-:computer: Contributing to Frontend and Backend for building Web Applications
-<br/><br/>
+:computer: Contributing to Frontend and Backend for building Web Applications<br/><br/>
+
 > ### <sup>REACH ME VIA</sup>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/shehani.wageesha.7)&nbsp;
@@ -45,11 +49,11 @@
 
 > ### <sup>STATS</sup>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShehaniWageesha&langs_count=6&hide=css,scss&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShehaniWageesha&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=ShehaniWageesha&count_private=true&show_icons=true&&theme=vision-friendly-dark"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShehaniWageesha&langs_count=6&hide=css,scss&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShehaniWageesha&theme=react-dark&hide_title=false&bg_color=000000&color=FFFFFF&line=FFC000&point=FFC000&hide_border=false)](https://github.com/ShehaniWageesha/github-readme-activity-graph)
 <!--![Alt text](https://gist.githubusercontent.com/ShehaniWageesha/ba386ce923e536448398604391a3d4f9/raw/4359824e64c75f52b5ba1162c31fcbc2f6675b8a/Footer_WaterWave.svg)-->
