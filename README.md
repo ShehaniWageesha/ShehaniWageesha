@@ -26,7 +26,7 @@
 
 > ### <sup>LANGUAGES & TOOLS</sup>
 
-<div>
+<div align=center>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="30" height="30"/>&nbsp;
@@ -55,11 +55,13 @@
 
 > ### <sup>STATS</sup>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShehaniWageesha&theme=dark&background=000000)](https://git.io/streak-stats) <img src="https://github-readme-stats.vercel.app/api?username=ShehaniWageesha&count_private=true&show_icons=true&&theme=vision-friendly-dark"/>
+
+<div align=center>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShehaniWageesha&langs_count=6&hide=css,scss&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShehaniWageesha&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShehaniWageesha&count_private=true&show_icons=true&&theme=vision-friendly-dark"/>
+</div>
 
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShehaniWageesha&theme=react-dark&hide_title=false&bg_color=000000&color=FFFFFF&line=FFC000&point=FFC000&hide_border=false)](https://github.com/ShehaniWageesha/github-readme-activity-graph)
 
