@@ -15,11 +15,17 @@
 
 > ### <sup>ABOUT ME</sup>
 
-:woman_student: Studying at Sri Lanka Institute of Information Technology
+:woman_student: &nbsp; ***Studying at Sri Lanka Institute of Information Technology***
 
-:briefcase: Working as a Trainee Full Stack Developer
+:briefcase: &nbsp; ***Working as a Trainee Full Stack Developer***
 
-:computer: Contributing to Frontend and Backend for building Web Applications<br/><br/>
+:computer: &nbsp; ***Contributing to Frontend and Backend for building Web Applications***<br/><br/>
+
+<!-- <sup>Undergraduate Student at Sri Lanka Institute of Information Technology :woman_student: </sup>
+
+<sup>Currently Working as a Trainee Full Stack Developer :briefcase: </sup>
+
+<sup>Contributing to Frontend and Backend for building Web Applications :computer: </sup><br/><br/>-->
 
 #
 <br/>
