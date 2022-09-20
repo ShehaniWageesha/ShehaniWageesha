@@ -8,6 +8,7 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehani-mahalekam-4120961b9/)&nbsp;
 [![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Wagee97)&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/888824562492534785)&nbsp;<br/><br/>
+
 </div>
 
 #
@@ -70,6 +71,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShehaniWageesha&langs_count=6&hide=css,scss&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShehaniWageesha&theme=react-dark&hide_title=false&bg_color=000000&color=FFFFFF&line=FFC000&point=FFC000&hide_border=false)](https://github.com/ShehaniWageesha/github-readme-activity-graph)
+
+</div>
+
+<div align=right>
+
+![](https://komarev.com/ghpvc/?username=ShehaniWageesha&style=for-the-badge)
 
 </div>
 <!--![Alt text](https://gist.githubusercontent.com/ShehaniWageesha/ba386ce923e536448398604391a3d4f9/raw/4359824e64c75f52b5ba1162c31fcbc2f6675b8a/Footer_WaterWave.svg)-->
