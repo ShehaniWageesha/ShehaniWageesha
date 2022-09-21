@@ -9,7 +9,7 @@
 [![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Wagee97)&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/888824562492534785)&nbsp;
 
-<img src="https://camo.githubusercontent.com/9ed64b042a76b8a97016e877cbaee0d6df224a148034afef658d841cf0cd1791/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966"/>
+<img src="https://gist.githubusercontent.com/ShehaniWageesha/f5c7c2a6a14f036eb73139b63fd28109/raw/bfdff02230cec37afc085768beacc9873f1292be/GIFparrot.gif"/>
 
 </div>
 
