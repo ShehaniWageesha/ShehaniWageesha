@@ -9,8 +9,6 @@
 [![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Wagee97)&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/888824562492534785)&nbsp;
 
-<img src="https://gist.githubusercontent.com/ShehaniWageesha/f5c7c2a6a14f036eb73139b63fd28109/raw/bfdff02230cec37afc085768beacc9873f1292be/GIFparrot.gif" width="40" height="40"/>
-
 </div>
 
 #
@@ -75,6 +73,9 @@
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShehaniWageesha&theme=react-dark&hide_title=false&bg_color=000000&color=FFFFFF&line=FFC000&point=FFC000&hide_border=false)](https://github.com/ShehaniWageesha/github-readme-activity-graph)
 
 </div>
+<div align=left>
+
+<img src="https://gist.githubusercontent.com/ShehaniWageesha/f5c7c2a6a14f036eb73139b63fd28109/raw/bfdff02230cec37afc085768beacc9873f1292be/GIFparrot.gif" width="40" height="40"/>
 
 <div align=right>
 
