@@ -22,12 +22,6 @@
 
 &emsp;&emsp; :computer: &nbsp; ***Contributing to Frontend and Backend for building Web Applications***<br/><br/>
 
-<!-- <sup>Undergraduate Student at Sri Lanka Institute of Information Technology :woman_student: </sup>
-
-<sup>Currently Working as a Trainee Full Stack Developer :briefcase: </sup>
-
-<sup>Contributing to Frontend and Backend for building Web Applications :computer: </sup><br/><br/>-->
-
 #
 <br/>
 
@@ -78,6 +72,6 @@
 
 <img src="https://gist.githubusercontent.com/ShehaniWageesha/f5c7c2a6a14f036eb73139b63fd28109/raw/bfdff02230cec37afc085768beacc9873f1292be/GIFparrot.gif" width="40" height="40"/>
 
-![](https://komarev.com/ghpvc/?username=ShehaniWageesha&style=for-the-badge)
+![Views](https://komarev.com/ghpvc/?username=ShehaniWageesha&style=for-the-badge)
 
 </div>
