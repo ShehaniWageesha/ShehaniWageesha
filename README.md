@@ -67,11 +67,9 @@
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShehaniWageesha&theme=react-dark&hide_title=false&bg_color=000000&color=FFFFFF&line=FFC000&point=FFC000&hide_border=false)](https://github.com/ShehaniWageesha/github-readme-activity-graph)
 
 </div>
-
+<br/>
 <div align=right>
 
-<img src="https://gist.githubusercontent.com/ShehaniWageesha/f5c7c2a6a14f036eb73139b63fd28109/raw/bfdff02230cec37afc085768beacc9873f1292be/GIFparrot.gif" width="40" height="40"/>
-
-![Views](https://komarev.com/ghpvc/?username=ShehaniWageesha&style=for-the-badge)
+<img src="https://gist.githubusercontent.com/ShehaniWageesha/f5c7c2a6a14f036eb73139b63fd28109/raw/bfdff02230cec37afc085768beacc9873f1292be/GIFparrot.gif" width="40" height="40"/>&nbsp;&nbsp;![Views](https://komarev.com/ghpvc/?username=ShehaniWageesha&style=for-the-badge)
 
 </div>
