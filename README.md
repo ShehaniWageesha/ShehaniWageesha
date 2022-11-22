@@ -31,7 +31,7 @@
 #
 <br/>
 
-> ### <sup>LANGUAGES & TOOLS</sup>
+> ### <sup>SKILLS</sup>
 
 <div align=center>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
