@@ -4,7 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there,+I'm+Wageesha...+😇)](https://git.io/typing-svg)
   
 ` SOFTWARE ENGINEERING UNDERGRADUATE `
-
+  
+<sup> [:curly_loop: CLICK HERE TO VIEW MY RESUME :curly_loop:](https://github.com/ShehaniWageesha/ShehaniWageesha/files/10095370/Resume_SW.pdf) </sup>
 <br/>
 <!--<img src="https://user-images.githubusercontent.com/66903669/200950004-ea895268-8d20-4ec7-a46d-dda4a6022826.gif" width="200" height="170"/>
 <br/><br/>-->
@@ -14,7 +15,7 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehani-mahalekam-4120961b9/)&nbsp;
 [![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Wagee97)&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/888824562492534785)&nbsp;
-
+  
 </div>
 
 #
@@ -26,7 +27,9 @@
 
 &emsp;&emsp; :briefcase: &nbsp; ***Working as a Trainee Full Stack Developer***
 
-&emsp;&emsp; :computer: &nbsp; ***Contributing to Frontend and Backend for building Web Applications***<br/><br/>
+&emsp;&emsp; :computer: &nbsp; ***Contributing to Frontend and Backend for building Web Applications***
+
+&emsp;&emsp; :seedling: &nbsp; ***Currently Learning Machine Learning***<br/><br/>
 
 #
 <br/>
@@ -76,6 +79,7 @@
 
 </div>
 <br/>
+
 <div align=right>
 
 <img src="https://gist.githubusercontent.com/ShehaniWageesha/f5c7c2a6a14f036eb73139b63fd28109/raw/bfdff02230cec37afc085768beacc9873f1292be/GIFparrot.gif" width="40" height="40"/>&nbsp;&nbsp;![Views](https://komarev.com/ghpvc/?username=ShehaniWageesha&style=for-the-badge)
