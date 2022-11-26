@@ -5,7 +5,7 @@
   
 ` SOFTWARE ENGINEERING UNDERGRADUATE `
   
-<sup> [:curly_loop: HERE IS MY RESUME :curly_loop:](https://github.com/ShehaniWageesha/ShehaniWageesha/files/10095370/Resume_SW.pdf) </sup>
+<sup> [HERE IS MY RESUME](https://github.com/ShehaniWageesha/ShehaniWageesha/files/10095370/Resume_SW.pdf) </sup>
 <br/>
 <!--<img src="https://user-images.githubusercontent.com/66903669/200950004-ea895268-8d20-4ec7-a46d-dda4a6022826.gif" width="200" height="170"/>
 <br/><br/>-->
