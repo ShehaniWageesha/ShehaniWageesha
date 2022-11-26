@@ -29,7 +29,7 @@
 
 &emsp;&emsp; :computer: &nbsp; ***Contributing to Frontend and Backend for building Web Applications***
 
-&emsp;&emsp; :seedling: &nbsp; ***Currently Learning Machine Learning***<br/><br/>
+&emsp;&emsp; :seedling: &nbsp; ***Currently Learning Machine Learning***<br/>
 
 #
 <br/>
