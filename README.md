@@ -30,7 +30,7 @@
 
 &emsp;&emsp; :seedling: &nbsp; ***Currently Learning Machine Learning***
 
-&emsp;&emsp; :star: &nbsp; [HERE IS MY RESUME](https://github.com/ShehaniWageesha/ShehaniWageesha/files/10095370/Resume_SW.pdf) &nbsp; <br/>
+&emsp;&emsp; :star: &nbsp; ***[HERE IS MY RESUME](https://github.com/ShehaniWageesha/ShehaniWageesha/files/10095370/Resume_SW.pdf)*** <br/>
 
 #
 <br/>
