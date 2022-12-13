@@ -1,6 +1,7 @@
 <!--![Alt text](https://gist.githubusercontent.com/ShehaniWageesha/fbfd96f40856924243d58257a0d895e6/raw/71b778a6daf5142e6464fe21b64fce0d2a31bb18/Header_WaterWave.svg)-->
 <div align=center>
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there,+I'm+Wageesha...+😇)](https://git.io/typing-svg)
   
 ` SOFTWARE ENGINEERING UNDERGRADUATE `
