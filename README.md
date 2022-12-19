@@ -30,7 +30,9 @@
 
 &emsp;&emsp; :seedling: &nbsp; ***Currently Learning Machine Learning***
 
-&emsp;&emsp; :star: &nbsp; ***[HERE IS MY RESUME](https://github.com/ShehaniWageesha/ShehaniWageesha/files/10095370/Resume_SW.pdf)*** <br/>
+<!--&emsp;&emsp; :star: &nbsp; ***[HERE IS MY RESUME](https://github.com/ShehaniWageesha/ShehaniWageesha/files/10095370/Resume_SW.pdf)*** <br/>-->
+
+&emsp;&emsp; :star: &nbsp; ***[HERE IS MY RESUME](https://drive.google.com/file/d/1O3HSH3TYFkd7NPGwxrMfT3gNz7mi5Gy1/view?usp=share_link)*** <br/>
 
 #
 <br/>
@@ -76,7 +78,7 @@
   
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShehaniWageesha&langs_count=6&hide=css,scss&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<!--[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShehaniWageesha&theme=react-dark&hide_title=false&bg_color=000000&color=FFFFFF&line=FFC000&point=FFC000&hide_border=false)](https://github.com/ShehaniWageesha/github-readme-activity-graph)-->
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShehaniWageesha&theme=react-dark&hide_title=false&bg_color=000000&color=FFFFFF&line=FFC000&point=FFC000&hide_border=false)](https://github.com/ShehaniWageesha/github-readme-activity-graph)
  
 </div>
 <br/>
