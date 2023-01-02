@@ -6,7 +6,7 @@
 ` SOFTWARE ENGINEERING UNDERGRADUATE `
   
 <br/>
-<img src="https://user-images.githubusercontent.com/66903669/200950004-ea895268-8d20-4ec7-a46d-dda4a6022826.gif" width="200" height="170"/>
+<!--<img src="https://user-images.githubusercontent.com/66903669/200950004-ea895268-8d20-4ec7-a46d-dda4a6022826.gif" width="200" height="170"/>-->
 <br/><br/>
   
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/shehani.wageesha.7)&nbsp;
