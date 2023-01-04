@@ -5,9 +5,9 @@
   
 ` SOFTWARE ENGINEERING UNDERGRADUATE `
   
-<br/>
+<!--<br/>
 <img src="https://user-images.githubusercontent.com/66903669/200950004-ea895268-8d20-4ec7-a46d-dda4a6022826.gif" width="200" height="170"/>
-<br/><br/>
+<br/><br/>-->
   
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/shehani.wageesha.7)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/authuser=shehaniwageesha@gmail.com)&nbsp;
@@ -32,7 +32,7 @@
 
 <!--&emsp;&emsp; :star: &nbsp; ***[HERE IS MY RESUME](https://github.com/ShehaniWageesha/ShehaniWageesha/files/10095370/Resume_SW.pdf)*** <br/>-->
 
-&emsp;&emsp; :star: &nbsp; ***[HERE IS MY RESUME](https://drive.google.com/file/d/109Dc3j2_rRUxnLOkS9rpBum_4g40fuew/view?usp=share_link)*** <br/>
+&emsp;&emsp; :star: &nbsp; ***[HERE IS MY RESUME](https://drive.google.com/file/d/12hDc18Xrgeels0jic6EVXo7M59W7i-DZ/view?usp=share_link)*** <br/>
 
 #
 <br/>
