@@ -32,7 +32,7 @@
 
 <!--&emsp;&emsp; :star: &nbsp; ***[HERE IS MY RESUME](https://github.com/ShehaniWageesha/ShehaniWageesha/files/10095370/Resume_SW.pdf)*** <br/>-->
 
-&emsp;&emsp; :star: &nbsp; ***[HERE IS MY RESUME](https://drive.google.com/file/d/12hDc18Xrgeels0jic6EVXo7M59W7i-DZ/view?usp=share_link)*** <br/>
+&emsp;&emsp; :star: &nbsp; ***[HERE IS MY RESUME](https://drive.google.com/file/d/1CkKNfbPYs4vks2yBl0qvsBIKx-lGYRtT/view?usp=share_link)*** <br/>
 
 #
 <br/>
