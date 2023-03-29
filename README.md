@@ -2,8 +2,8 @@
 <div align=center>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there,+I'm+Wageesha...+😇)](https://git.io/typing-svg)
-  
-` SOFTWARE ENGINEERING FRESH GRADUATE `
+
+` SOFTWARE ENGINEERING FRESH GRADUATE @ SLIIT`
   
 <!--<br/>
 <img src="https://user-images.githubusercontent.com/66903669/200950004-ea895268-8d20-4ec7-a46d-dda4a6022826.gif" width="200" height="170"/>
@@ -22,7 +22,7 @@
 
 > ### <sup>ABOUT ME</sup>
 
-&emsp;&emsp; :woman_student: &nbsp; ***Studying at Sri Lanka Institute of Information Technology***
+&emsp;&emsp; :woman_student: &nbsp; ***Studied at Sri Lanka Institute of Information Technology***
 
 &emsp;&emsp; :briefcase: &nbsp; ***Working as a Trainee Full Stack Developer***
 
