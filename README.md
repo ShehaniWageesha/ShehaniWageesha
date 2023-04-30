@@ -2,8 +2,6 @@
 <div align=center>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there,+I'm+Shehani+Wageesha...)](https://git.io/typing-svg)
-
-  
   
 ` SOFTWARE ENGINEERING FRESH GRADUATE @ SLIIT 😇 `
 
