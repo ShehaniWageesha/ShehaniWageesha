@@ -79,6 +79,8 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShehaniWageesha&langs_count=6&hide=css,scss&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShehaniWageesha&theme=react-dark&hide_title=false&bg_color=000000&color=FFFFFF&line=FFC000&point=FFC000&hide_border=false)](https://github.com/ShehaniWageesha/github-readme-activity-graph)
+  
+[![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShehaniWageesha&bg_color=000000&color=FFFFFF&line=FFC000&point=FFC000&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 </div>
 <br/>
