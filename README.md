@@ -80,7 +80,7 @@
 
 <!--[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShehaniWageesha&theme=react-dark&hide_title=false&bg_color=000000&color=FFFFFF&line=FFC000&point=FFC000&hide_border=false)](https://github.com/ShehaniWageesha/github-readme-activity-graph)-->
   
-[![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShehaniWageesha&bg_color=000000&color=FFFFFF&line=FFC000&point=FFC000&area=false&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShehaniWageesha&bg_color=000000&color=FFFFFF&line=FFC000&point=FFC000&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 </div>
 <br/>
