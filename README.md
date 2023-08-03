@@ -81,7 +81,13 @@
 <!--[![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShehaniWageesha&bg_color=000000&color=FFFFFF&line=FFC000&point=FFC000&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 [![GAG](https://github-readme-activity-graph.vercel.app/graph?username=ShehaniWageesha&bg_color=000000&color=FFFFFF&line=FFC000&point=FFC000&hide_border=false)](https://github.com/ShehaniWageesha/github-readme-activity-graph)
+
+<div align=center>
   
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ShehaniWageesha&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 </div>
 <br/>
 
