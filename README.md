@@ -30,7 +30,7 @@
 
 &emsp;&emsp; :seedling: &nbsp; ***Currently Learning Machine Learning***
 
-&emsp;&emsp; :star: &nbsp; ***[HERE IS MY RESUME](https://drive.google.com/file/d/18xTuoQo9FaN4wJ7BXE6tjjKQamCmbysy/view?usp=share_link)*** <br/>
+&emsp;&emsp; :star: &nbsp; ***[HERE IS MY RESUME]([https://drive.google.com/file/d/18xTuoQo9FaN4wJ7BXE6tjjKQamCmbysy/view?usp=share_link](https://drive.google.com/file/d/1ZBuUmMnKArqNqb9jyjbLR7aa7UQda2hB/view?usp=sharing))*** <br/>
 
 #
 <br/>
