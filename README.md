@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there,+I'm+Shehani+Wageesha...)](https://git.io/typing-svg)
   
-` SOFTWARE ENGINEERING FRESH GRADUATE @ SLIIT 😇 `
+` SOFTWARE ENGINEER `
 
 <br/>
 <!--<img src="https://user-images.githubusercontent.com/66903669/200950004-ea895268-8d20-4ec7-a46d-dda4a6022826.gif" width="200" height="170"/>
