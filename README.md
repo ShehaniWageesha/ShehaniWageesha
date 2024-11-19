@@ -24,7 +24,7 @@
 
 &emsp;&emsp; :woman_student: &nbsp; ***Studied at Sri Lanka Institute of Information Technology***
 
-&emsp;&emsp; :briefcase: &nbsp; ***Working as a Trainee Full Stack Developer***
+&emsp;&emsp; :briefcase: &nbsp; ***Working as a Associate Software Engineer***
 
 &emsp;&emsp; :computer: &nbsp; ***Contributing to Frontend and Backend for building Web Applications***
 
