@@ -24,13 +24,13 @@
 
 &emsp;&emsp; :woman_student: &nbsp; ***Studied at Sri Lanka Institute of Information Technology***
 
-&emsp;&emsp; :briefcase: &nbsp; ***Working as a Associate Software Engineer***
+&emsp;&emsp; :briefcase: &nbsp; ***Working as a Software Engineer @ FonixEdu Pvt Ltd***
 
 &emsp;&emsp; :computer: &nbsp; ***Contributing to Frontend and Backend for building Web Applications***
 
 &emsp;&emsp; :seedling: &nbsp; ***Currently Learning Machine Learning***
 
-&emsp;&emsp; :star: &nbsp; ***[HERE IS MY RESUME](https://drive.google.com/file/d/1ZBuUmMnKArqNqb9jyjbLR7aa7UQda2hB/view?usp=sharing)*** <br/>
+&emsp;&emsp; :star: &nbsp; ***[HERE IS MY RESUME](https://drive.google.com/file/d/1de-G-WlhuXF7bdaKX3-QWIcOsPMLllZo/view?usp=sharing)*** <br/>
 
 #
 <br/>
