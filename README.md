@@ -1,98 +1,117 @@
-<!--![Alt text](https://gist.githubusercontent.com/ShehaniWageesha/fbfd96f40856924243d58257a0d895e6/raw/71b778a6daf5142e6464fe21b64fce0d2a31bb18/Header_WaterWave.svg)-->
-<div align=center>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there,+Wageesha+Here...)](https://git.io/typing-svg)
-  
-` SOFTWARE ENGINEER `
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shehani%20Wageesha&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descAlign=50&descColor=a78bfa"/>
 
 <br/>
-<!--<img src="https://user-images.githubusercontent.com/66903669/200950004-ea895268-8d20-4ec7-a46d-dda4a6022826.gif" width="200" height="170"/>
-<br/><br/>-->
-  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/shehani.wageesha.7)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/authuser=shehaniwageesha@gmail.com)&nbsp;
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehani-mahalekam-4120961b9/)&nbsp;
-[![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Wagee97)&nbsp;
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/888824562492534785)&nbsp;
-  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hello+there,+welcome!)](https://git.io/typing-svg)
+
+<br/>
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/shehani.wageesha.7)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shehaniwageesha@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehani-mahalekam-4120961b9/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Wagee97)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/888824562492534785)
+
+<img src="https://komarev.com/ghpvc/?username=ShehaniWageesha&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+
 </div>
 
-#
+---
+
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
+### 👩‍💻 About Me
+
 <br/>
 
-> ### <sup>ABOUT ME</sup>
+🎓 &nbsp; Studied at **Sri Lanka Institute of Information Technology**
 
-&emsp;&emsp; :woman_student: &nbsp; ***Studied at Sri Lanka Institute of Information Technology***
+💼 &nbsp; Software Engineer at **FonixEdu Pvt Ltd**
 
-&emsp;&emsp; :briefcase: &nbsp; ***Working as a Software Engineer @ FonixEdu Pvt Ltd***
+🌐 &nbsp; Full Stack Developer — **Frontend & Backend**
 
-&emsp;&emsp; :computer: &nbsp; ***Contributing to Frontend and Backend for building Web Applications***
+🤖 &nbsp; Exploring **AI-Powered Development** & Agentic Workflows
 
-&emsp;&emsp; :seedling: &nbsp; ***Currently Learning Machine Learning***
+📄 &nbsp; Check out **[My Resume](https://drive.google.com/file/d/1de-G-WlhuXF7bdaKX3-QWIcOsPMLllZo/view?usp=sharing)**
 
-&emsp;&emsp; :star: &nbsp; ***[HERE IS MY RESUME](https://drive.google.com/file/d/1de-G-WlhuXF7bdaKX3-QWIcOsPMLllZo/view?usp=sharing)*** <br/>
+<br/><br/>
 
-#
+---
+
+### 🛠️ Tech Stack
+
 <br/>
 
-> ### <sup>SKILLS</sup>
+#### Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-<div align=center>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="Flask" alt="Flask" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="50" height="50"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" title="Dart" alt="Dart" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
-</div><br/>
+#### Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
-#
+#### Backend & Frameworks
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### Tools & Platforms
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
 <br/>
 
-> ### <sup>STATS</sup>
-
-<div align=center>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShehaniWageesha&langs_count=8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShehaniWageesha&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShehaniWageesha&count_private=true&show_icons=true&&theme=vision-friendly-dark"/><br/>
+<div align="center">
   
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShehaniWageesha&langs_count=6&hide=css,scss&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShehaniWageesha&theme=midnight-purple&hide_border=true" />
 
-<!--[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShehaniWageesha&theme=react-dark&hide_title=false&bg_color=000000&color=FFFFFF&line=FFC000&point=FFC000&hide_border=false)](https://github.com/ShehaniWageesha/github-readme-activity-graph)-->
-  
-<!--[![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShehaniWageesha&bg_color=000000&color=FFFFFF&line=FFC000&point=FFC000&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
-
-[![GAG](https://github-readme-activity-graph.vercel.app/graph?username=ShehaniWageesha&bg_color=000000&color=FFFFFF&line=FFC000&point=FFC000&hide_border=false)](https://github.com/ShehaniWageesha/github-readme-activity-graph)
-
-<!--<div align=center>
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ShehaniWageesha&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>-->
+  <br/><br/>
 
 </div>
-<br/>
 
-<div align=right>
+---
 
-<img src="https://gist.githubusercontent.com/ShehaniWageesha/f5c7c2a6a14f036eb73139b63fd28109/raw/bfdff02230cec37afc085768beacc9873f1292be/GIFparrot.gif" width="40" height="40"/>&nbsp;&nbsp;![Views](https://komarev.com/ghpvc/?username=ShehaniWageesha&style=for-the-badge)
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShehaniWageesha&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShehaniWageesha&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
